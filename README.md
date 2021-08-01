@@ -1,5 +1,7 @@
 # Matchy-Matchy-2.0
 
-#### Processing 3.0 | Java
+#### Coded in Processing 3.0 | Java for an Introductory Computing Unit.
 
-#### Grade: 90%
+#### A mini game wherein an invader is moving from the right-hand side of the screen towards a base on the left-hand side. The player has the ability to shoot down the invader with a shape-shifting cannon.
+
+#### Received a 100% grade for the first iteration of the project and 90% for the second iteration.
